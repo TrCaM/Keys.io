@@ -4,6 +4,6 @@ development:
   reconnect: false
   database: keysio
   pool: 5
-  username: root
-  password: Scalkmedia1!
+  username: tcao
+  password: 1234
   host: localhost
