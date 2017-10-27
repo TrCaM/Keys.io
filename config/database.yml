@@ -1,0 +1,9 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: rubyapps
+  pool: 5
+  username: tcao
+  password: 01234722581tri
+  host: localhost
